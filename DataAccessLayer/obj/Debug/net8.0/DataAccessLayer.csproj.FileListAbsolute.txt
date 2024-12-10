@@ -1,0 +1,51 @@
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\cehen\source\repos\Demo_Product\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Demo_Product\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Yeni klasör (2)\Demo_Product\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

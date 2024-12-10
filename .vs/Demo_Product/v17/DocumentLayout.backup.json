@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0075F4CF-C5D6-4109-B838-24535E4FE9A1}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\entitylayer\\concrete\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0075F4CF-C5D6-4109-B838-24535E4FE9A1}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0075F4CF-C5D6-4109-B838-24535E4FE9A1}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0075F4CF-C5D6-4109-B838-24535E4FE9A1}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0075F4CF-C5D6-4109-B838-24535E4FE9A1}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\entitylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0075F4CF-C5D6-4109-B838-24535E4FE9A1}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F535B9-1CF9-412E-BB52-1309ABDA44C9}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\models\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\models\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\models\\membershipregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\models\\membershipregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\demo_product\\demo_product\\models\\membershiploginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9DAE3B-4804-4A29-97DF-BBBFEB03DDBF}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\models\\membershiploginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\EntityLayer\\Concrete\\AppRole.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\EntityLayer\\Concrete\\AppRole.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:07:33.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\EntityLayer\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\EntityLayer\\Concrete\\Category.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:07:31.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:07:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:07:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:07:45.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:05:57.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T22:29:20.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T22:29:18.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T22:29:10.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T22:29:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T22:28:53.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\SettingsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:16:34.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\EntityLayer\\Concrete\\AppUser.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\EntityLayer\\Concrete\\AppUser.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:16:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:15:47.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:15:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:15:26.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Models\\UserEditViewModel.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Models\\UserEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Models\\UserEditViewModel.cs",
+              "RelativeToolTip": "Demo_Product\\Models\\UserEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:15:19.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MembershipRegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Models\\MembershipRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Models\\MembershipRegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Models\\MembershipRegisterViewModel.cs",
+              "RelativeToolTip": "Demo_Product\\Models\\MembershipRegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:15:16.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MembershipLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Models\\MembershipLoginViewModel.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Models\\MembershipLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\Demo_Product\\Demo_Product\\Models\\MembershipLoginViewModel.cs",
+              "RelativeToolTip": "Demo_Product\\Models\\MembershipLoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:15:13.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
